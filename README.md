@@ -19,3 +19,6 @@
 ![text](activity/professor.jpg)<br/>
 #### Диаграмма деятельности администратора
 ![text](activity/admin.jpg)
+***
+### Схема базы данных
+![text](database_img/1.png)
